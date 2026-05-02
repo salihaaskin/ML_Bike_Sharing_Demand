@@ -10,78 +10,21 @@ By analyzing historical data such as weather conditions, time, and seasonal tren
 ├── README.md                         # Project documentation
 
 
-## Dataset
-The dataset contains information about bike rentals along with features such as:
-
-Date and time
-
-Temperature
-
-Humidity
-
-Wind speed
-
-Season and weather conditions
-
-Number of rentals (target variable)
 
 ## Workflow
-
-Data Loading
-
-Import dataset and inspect structure
-
-Data Formatting
-
-Visualize trends and patterns
-
-Identify relationships between features and demand
-
-Feature Engineering
-
-Extract time-based features (hour, day, month)
-
-Encode categorical variables
-
-Model Building
-
-Train machine learning models such as:
-
-Linear Regression
-
-Decision Trees / Random Forest
-
-Evaluation
-
-Metrics like RMSE / MAE
-
-Compare model performance
+Data exploration & visualization
+Feature engineering
+Model training (Regression, Tree-based models)
+Evaluation using RMSE & MAE
 
 ## Models Used
-Linear Regression
+Linear Regression, Lasso/Ridge, KNN, Decision Tree, Random Forest, Gradient Boosting
 
-Lasso and Ridge Regularizations
+## Insights
+Demand varies by time of day
+Weather impacts rentals
+Seasonal trends improve predictions
 
-KNN Regression
+### Tools:
 
-Decision Tree / Random Forest
-
-Gradient Boosting
-
-## Results
-The model performance is evaluated based on prediction accuracy.
-Key insights include:
-
-Time of day strongly influences demand
-
-Weather conditions significantly affect rentals
-
-Seasonal patterns are important predictors
-
-### Common libraries used:
-
-Python 3.x
-pandas
-numpy
-matplotlib / seaborn
-scikit-learn
+Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
