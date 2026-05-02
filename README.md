@@ -13,8 +13,11 @@ By analyzing historical data such as weather conditions, time, and seasonal tren
 
 ## Workflow
 Data exploration & visualization
+
 Feature engineering
+
 Model training (Regression, Tree-based models)
+
 Evaluation using RMSE & MAE
 
 ## Models Used
