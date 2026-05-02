@@ -3,11 +3,11 @@ This project focuses on predicting bike rental demand using machine learning tec
 By analyzing historical data such as weather conditions, time, and seasonal trends, the goal is to build a model that accurately forecasts the number of bike rentals.
 
 ## Project Structure
-├── ML&AL Bike Sharing Demand.ipynb   # Main notebook with analysis and models
+ ML&AL Bike Sharing Demand.ipynb   # Main notebook with analysis and models
 
-├── data/                             # Dataset
+data/                             # Dataset
 
-├── README.md                         # Project documentation
+README.md                         # Project documentation
 
 
 
